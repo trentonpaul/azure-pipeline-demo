@@ -9,7 +9,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Testing another output.
+- script: echo This is a separate test branch.
   displayName: 'Run a one-line script'
 
 - script: |
